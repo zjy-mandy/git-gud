@@ -9,7 +9,7 @@ more detailed instructions can be found in the slidedeck above
 
 1. fork the repo
 2. clone the repo to your local machine
-3. edit the fields to contain your contact information (if you are comfortable)
+3. edit the fields in `index.html` to contain your contact information (if you are comfortable)
 4. commit and push your changes to your fork
 5. open a merge request to this repo
 
