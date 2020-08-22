@@ -14,4 +14,4 @@ more detailed instructions can be found in the slidedeck above
 5. open a merge request to this repo
 
 # questions?
-reach out to the tech team chairs [darci](mailto:darciap2@illinois.edu) and [melissa](mailto:myc2@illinois.edu)
+reach out to the explorations chairs [darci](mailto:darciap2@illinois.edu) and [melissa](mailto:myc2@illinois.edu)
